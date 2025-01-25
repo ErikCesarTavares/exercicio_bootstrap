@@ -42,6 +42,15 @@ O **Formulário de Cadastro** inclui:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Formulário de Cadastro 📝](https://erikcesartavares.github.io/exercicio_bootstrap/)
+
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
